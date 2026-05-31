@@ -1,3 +1,3 @@
-# agenticdao-content-writer
+# Content Writer
 
-Coming soon.
+POST /outline and /draft for long-form SEO content.
